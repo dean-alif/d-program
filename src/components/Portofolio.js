@@ -2,6 +2,7 @@ import React from "react";
 import berirezeki from "../images/berirezeki.netlify.app.png";
 import prediksihargapasar from "../images/prediksi-harga-pasar.herokuapp.com.png";
 import sistempakar from "../images/Sistem Pakar Diagnosa.com.png";
+import dekstopapp from "../images/dekstop-app.png";
 //font awesome
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchPlus} from "@fortawesome/free-solid-svg-icons";
@@ -79,7 +80,7 @@ export const Portofolio = () => {
   const openPopupboxDekstopApp = () => {
     const content = (
       <>
-        <img className="portofolio-image-popupbox" src={sistempakar} alt="Sistem Pakar Web" />
+        <img className="portofolio-image-popupbox" src={dekstopapp} alt="Dekstop Application" />
         <p>Our  clients using our Desktop Application for their Bussines Process, e.g. Textile Trading, Car Towing Services, Textile Fabric Retailer, Texitle Manufacture. Start from Procurements, Sales, Processing and Finance.</p>
       </>
     )
@@ -127,7 +128,7 @@ export const Portofolio = () => {
 
                 <div className="col">
                   <div className="portofolio-image-box" onClick={openPopupboxDekstopApp}> 
-                      <img className="portofolio-image" src={sistempakar} alt="Sistem Pakar Web" /> 
+                      <img className="portofolio-image" src={dekstopapp} alt="Sistem Pakar Web" /> 
                       <div className="overflow"></div>  
                       <FontAwesomeIcon className="portofolio-icon" icon={faSearchPlus} /> 
                   </div> 
