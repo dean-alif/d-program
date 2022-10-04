@@ -350,6 +350,7 @@ nav ul li {
 
 .popupbox-wrapper {
   margin-top: 6rem;
+  max-height: 90%;
 }
 
 .portofolio-image-box:hover .overflow {

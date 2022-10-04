@@ -13,7 +13,7 @@ const AboutMe = () => {
                 <div className="col-lg-6 col-xm-12">
                     <h1 className="about-heading">About Us</h1>
                     <p className="about-text">
-                    We are a teamwork with many experience backgrounds will provide solutions for our partner about simple working environtment system. <br></br>
+                    We are a teamwork with many experience backgrounds will provide solutions for our partner about simple working environment system. <br></br>
 
                     System Information was needed by Company to reach the goals by simple ways with accurate informationand and safety. <br></br>
 
