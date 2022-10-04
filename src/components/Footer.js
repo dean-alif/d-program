@@ -11,7 +11,7 @@ const Footer = () => {
                         </div>
 
                         <div className="d-flex">
-                            <a href="https://wa.me/6281312453774">WhatsApp : +62 813-1245-3774</a>
+                            <a href="https://wa.me/6281312453772">WhatsApp : +62 813-1245-3772</a>
                         </div>
 
                         <div className="d-flex">
